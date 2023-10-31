@@ -233,6 +233,10 @@ h3 {
     bottom: 30px;
   }
 
+  .hero-banner {
+    background-position: left;
+  }
+
   #workgrid {
     grid-template-columns: 1fr;
     max-width: 576px;
